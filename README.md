@@ -1,5 +1,5 @@
 # DataHackSummit2024
-Links to the github repositories I'm presenting at DataHack Summit 2024
+Links to the github repositories I (Josh Starmer) am presenting at DataHack Summit 2024
 
 - [Word Embedding from Scratch](https://github.com/StatQuest/word_embedding_with_pytorch_and_lightning)
 - [Word Embeddings for Playlist Recommendations](https://github.com/StatQuest/embeddings_for_recommendations)
